@@ -1,4 +1,4 @@
-import com.mockito.StudentScoreCalculator;
+import com.mockito.service.StudentScoreCalculator;
 import org.junit.Before;
 import org.junit.Test;
 

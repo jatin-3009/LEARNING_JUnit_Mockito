@@ -1,5 +1,5 @@
-import com.mockito.BookingManager;
-import com.mockito.HotelDao;
+import com.mockito.service.BookingManager;
+import com.mockito.repository.HotelDao;
 import org.junit.Before;
 import org.junit.Test;
 

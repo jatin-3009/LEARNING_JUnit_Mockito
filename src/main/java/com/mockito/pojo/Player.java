@@ -1,6 +1,4 @@
-package com.mockito;
-
-import static jdk.internal.dynalink.support.Guards.isNotNull;
+package com.mockito.pojo;
 
 public class Player {
     private String name;

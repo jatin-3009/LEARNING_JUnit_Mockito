@@ -1,4 +1,8 @@
-package com.mockito;
+package com.mockito.service;
+
+import com.mockito.exception.ZeroSubscribersException;
+import com.mockito.repository.SubscribersDatabase;
+import com.mockito.helper.MessagingEngine;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.mockito;
+package com.mockito.service;
 
 public class StudentScoreCalculator {
     private int satScore;

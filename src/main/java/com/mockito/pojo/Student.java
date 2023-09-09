@@ -1,4 +1,4 @@
-package com.mockito;
+package com.mockito.pojo;
 
 import javax.persistence.*;
 

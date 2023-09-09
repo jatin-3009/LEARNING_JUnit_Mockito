@@ -1,4 +1,6 @@
-package com.mockito;
+package com.mockito.service;
+
+import com.mockito.repository.HotelDao;
 
 import java.sql.SQLException;
 import java.util.List;

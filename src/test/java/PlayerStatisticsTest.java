@@ -1,5 +1,5 @@
-import com.mockito.Player;
-import com.mockito.PlayerStatistics;
+import com.mockito.pojo.Player;
+import com.mockito.service.PlayerStatistics;
 import org.junit.Before;
 import org.junit.Test;
 

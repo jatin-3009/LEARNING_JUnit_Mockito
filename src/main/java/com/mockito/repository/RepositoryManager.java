@@ -1,4 +1,6 @@
-package com.mockito;
+package com.mockito.repository;
+
+import com.mockito.pojo.Student;
 
 import javax.persistence.EntityManager;
 import javax.persistence.Query;

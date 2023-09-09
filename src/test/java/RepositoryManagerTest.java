@@ -1,5 +1,5 @@
-import com.mockito.RepositoryManager;
-import com.mockito.Student;
+import com.mockito.repository.RepositoryManager;
+import com.mockito.pojo.Student;
 import javax.persistence.Query;
 import org.junit.Test;
 import org.junit.runner.RunWith;

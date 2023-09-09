@@ -1,4 +1,6 @@
-package com.mockito;
+package com.mockito.service;
+
+import com.mockito.pojo.Player;
 
 public class PlayerStatistics {
     private Player player;

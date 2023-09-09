@@ -1,7 +1,7 @@
-import com.mockito.MessagingEngine;
-import com.mockito.NewsletterSender;
-import com.mockito.SubscribersDatabase;
-import com.mockito.ZeroSubscribersException;
+import com.mockito.helper.MessagingEngine;
+import com.mockito.service.NewsletterSender;
+import com.mockito.repository.SubscribersDatabase;
+import com.mockito.exception.ZeroSubscribersException;
 import org.junit.Before;
 import org.junit.Test;
 

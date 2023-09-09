@@ -1,4 +1,4 @@
-package com.mockito;
+package com.mockito.repository;
 
 import java.sql.*;
 import java.util.ArrayList;

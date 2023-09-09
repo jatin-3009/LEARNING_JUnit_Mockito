@@ -1,4 +1,4 @@
-import com.mockito.StudentScoreCalculator;
+import com.mockito.service.StudentScoreCalculator;
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
 import org.junit.Test;

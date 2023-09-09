@@ -1,4 +1,4 @@
-package com.mockito;
+package com.mockito.helper;
 
 import java.util.List;
 
